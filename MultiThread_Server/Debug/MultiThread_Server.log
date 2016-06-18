@@ -1,0 +1,3 @@
+﻿  MultiThread_Server.cpp
+c:\users\seungmin\documents\github\multithread_server\multithread_server\multithread_server.cpp(56): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'HANDLE'입니다.
+  MultiThread_Server.vcxproj -> C:\Users\SeungMin\Documents\GitHub\MultiThread_Server\Debug\MultiThread_Server.exe
